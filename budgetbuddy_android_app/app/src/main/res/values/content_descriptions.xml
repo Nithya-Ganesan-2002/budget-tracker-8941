@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cd_nav_dashboard">Navigate to Dashboard</string>
+    <string name="cd_nav_add">Navigate to Add Expense</string>
+    <string name="cd_nav_reports">Navigate to Reports</string>
+</resources>

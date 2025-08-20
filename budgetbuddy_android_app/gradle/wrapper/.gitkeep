@@ -1,0 +1,1 @@
+# Ensures this directory exists in shallow CI clones so wrapper resolves consistently.

@@ -1,0 +1,6 @@
+CI is invoking './gradlew' from the repository root where no wrapper exists.
+Use one of these from repo root:
+- bash budget-tracker-8941/build-android.sh build
+- bash budget-tracker-8941/run-ci-gradle.sh build
+- ./budget-tracker-8941/gradlew (root shim)
+Or set working_directory to: budget-tracker-8941/budgetbuddy_android_app then run ./gradlew.

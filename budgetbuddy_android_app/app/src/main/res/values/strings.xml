@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BudgetBuddy</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_add">Add Expense</string>
+    <string name="nav_reports">Reports</string>
+
+    <string name="dashboard_title">Overview</string>
+    <string name="add_expense_title">Add Expense</string>
+    <string name="reports_title">Reports</string>
+
+    <string name="amount_hint">Amount</string>
+    <string name="category_hint">Category</string>
+    <string name="note_hint">Note (optional)</string>
+    <string name="save">Save</string>
+</resources>

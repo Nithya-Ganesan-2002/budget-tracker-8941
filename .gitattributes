@@ -1,0 +1,8 @@
+# Preserve executable bits for shell scripts (prevents CI from losing +x)
+*.sh text eol=lf
+budgetbuddy_android_app/gradlew linguist-generated=false eol=lf
+gradlew text eol=lf
+gradle.sh text eol=lf
+run-ci-gradle.sh text eol=lf
+budgetbuddy_android_app/run-gradle.sh text eol=lf
+*.sh -text
