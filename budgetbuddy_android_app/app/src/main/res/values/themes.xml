@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Bridge theme to ensure Material3 attributes are present even if styles.xml is primary -->
+    <style name="ThemeOverlay.BudgetBuddy.Material3" parent="">
+        <!-- This overlay can be applied if needed in future -->
+    </style>
+</resources>

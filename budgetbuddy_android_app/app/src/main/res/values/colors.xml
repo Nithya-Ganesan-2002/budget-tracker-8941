@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Provided Colors -->
+    <color name="colorPrimary">#2D9CDB</color>
+    <color name="colorPrimaryVariant">#237FB2</color>
+    <color name="colorSecondary">#56CCF2</color>
+    <color name="colorAccent">#27AE60</color>
+    <color name="colorOnPrimary">#FFFFFFFF</color>
+    <color name="colorOnSecondary">#FF000000</color>
+    <color name="colorSurface">#FFFFFFFF</color>
+    <color name="colorBackground">#FFFFFFFF</color>
+    <color name="colorOnBackground">#FF101010</color>
+    <color name="colorOnSurface">#FF101010</color>
+    <color name="navItemActive">#2D9CDB</color>
+    <color name="navItemInactive">#80101010</color>
+</resources>

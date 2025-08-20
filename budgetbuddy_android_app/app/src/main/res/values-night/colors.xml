@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2D9CDB</color>
+    <color name="colorSecondary">#56CCF2</color>
+    <color name="colorAccent">#27AE60</color>
+    <color name="colorSurface">#121212</color>
+    <color name="colorOnSurface">#FFFFFFFF</color>
+    <color name="colorBackground">#121212</color>
+    <color name="colorOnBackground">#FFFFFFFF</color>
+    <color name="navItemActive">#2D9CDB</color>
+    <color name="navItemInactive">#80FFFFFF</color>
+</resources>
